@@ -9,6 +9,7 @@ An application containing a list of anime from [MyAnimeList.net](https://myanime
 - State in Compose
 - Lazy Layout in Compose
 - Navigation in Compose
+- Include Testing in Compose (Semantic & Tag on UI Testing) 
 
 This application uses Kotlin as a programing language and Android Studio version Electric Eel as a tool for developing the app.
 
